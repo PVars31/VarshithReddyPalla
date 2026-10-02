@@ -1,336 +1,185 @@
-# Hey, I'm Varshith 👋
+# <p align="center">⚙️ Varshith Reddy Palla | Software & Automation Engineer</p>
 
-### Software & Automation Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=190&section=header&text=Software%20%E2%80%A2%20Automation%20%E2%80%A2%20Engineering&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Automotive%20%7C%20AI%20%7C%20Testing&descAlignY=58&descSize=17" width="100%" />
+</p>
 
-I like building software that removes repetitive work.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automotive-2563EB?style=for-the-badge&logo=car&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-My background started in mechanical engineering and mechatronics, moved into automotive systems, and gradually became much more focused on **Python, automation, backend development, testing, data processing and AI-powered tools**.
+## 👋 About Me
 
-A lot of the things I build begin with:
+I am a **Software & Automation Engineer** with an M.Eng. background in **Mechatronics & Robotics** and hands-on experience in automotive software projects.
 
-> **“Can I automate this instead?”**
+My work sits between **automotive systems, software engineering, automation, APIs, testing and data processing**.
 
-Today I'm especially interested in:
-
-`Python` · `Automation` · `Backend Development` · `APIs` · `AI Agents` · `Developer Tools` · `Automotive Software`
-
----
-
-```python
-class Varshith:
-    role = "Software & Automation Engineer"
-
-    likes_building = [
-        "automation tools",
-        "Python applications",
-        "AI agents",
-        "developer utilities",
-        "testing frameworks",
-        "data pipelines",
-    ]
-
-    domains = [
-        "software engineering",
-        "automotive software",
-        "AI automation",
-        "application testing",
-    ]
-
-    current_focus = "Building useful software that saves time."
-```
+- 🐍 Main language: **Python**
+- ⚙️ Focus: **Automation, backend tools, APIs & testing**
+- 🚗 Domain: **Automotive software, ECU validation & diagnostics**
+- 🤖 Exploring: **AI agents & LLM-powered workflows**
+- 🧠 Approach: **Understand → Automate → Validate → Improve**
 
 ---
 
-# 🚀 What I'm Building
+## 🚀 Featured Projects
 
-## 🤖 AI Job Application Agent
+### 🤖 AI Job Application Agent
 
-Currently experimenting with an AI-powered agent designed to assist with repetitive parts of the job-application workflow.
+> **AI-assisted system for reducing repetitive work throughout the job-application process.**
 
-The idea is to build a system that can work with structured profile data, job descriptions and application requirements to support tasks such as:
-
-- extracting relevant requirements from job descriptions
-- matching skills and experience
-- preparing structured application information
-- generating tailored documents
-- tracking applications
-- automating repetitive workflow steps
-
-### Exploring
-
-`Python` · `LLMs` · `AI Agents` · `APIs` · `Automation` · `Structured Data`
-
-> 🚧 Currently in development.
-
----
-
-## 📄 CV Studio — Local CV Editor & PDF Generator
-
-I got tired of manually editing different versions of my CV.
-
-So I built my own tool.
+Combines structured candidate data, job-description analysis, LLM-based matching and workflow automation.
 
 ```text
-                   ┌────────────────────┐
-                   │ Structured CV Data │
-                   │       JSON         │
-                   └─────────┬──────────┘
-                             │
-                             ▼
-                   ┌────────────────────┐
-                   │   Python Backend   │
-                   └─────────┬──────────┘
-                             │
-             ┌───────────────┴────────────────┐
-             │                                │
-             ▼                                ▼
-   ┌──────────────────┐            ┌──────────────────┐
-   │ Browser CV Editor│            │ Template Engine  │
-   └──────────────────┘            └────────┬─────────┘
-                                           │
-                                     HTML + CSS
-                                           │
-                                           ▼
-                                    ┌─────────────┐
-                                    │     PDF     │
-                                    └─────────────┘
+Job Description ───────┐
+                       ├──► AI Agent ──► Matching / Tailoring
+Candidate Profile ─────┘                    │
+                                            ▼
+                                    Structured Output
+                                            │
+                          ┌─────────────────┴──────────────┐
+                          ▼                                ▼
+                     CV Generator                  Application Workflow
 ```
 
-It lets me maintain CV information as structured data and dynamically generate different CV layouts from reusable templates.
+**Goal:** Understand job requirements, map them to relevant experience and generate reusable structured application data.
 
-### Features
+**Tech:** `Python` · `LLMs` · `AI Agents` · `REST APIs` · `JSON` · `n8n` · `Docker`
 
-- local browser-based CV editor
-- JSON-based data storage
-- reusable CV schema
-- multiple HTML/CSS templates
-- dynamic rendering
-- automated PDF generation
-- separation of content and presentation
-
-And yes —
-
-> **The CV I use for applications is generated by this tool.**
-
-### Built with
-
-`Python` · `JSON` · `HTML` · `CSS` · `PDF Generation`
+> 🚧 Currently under development.
 
 ---
 
-## 🔓 PDF Utility Toolkit
+### 📄 CV Studio — Editor & PDF Generator
 
-A lightweight utility project for working with PDF documents.
+> **Structured CV management and dynamic document-generation system.**
 
-I'm building tools around common PDF-processing tasks such as document handling, validation and removing restrictions from files I own or am authorized to modify.
-
-### Focus
-
-`Python` · `PDF Processing` · `File Automation` · `CLI / Utilities`
-
-> 🚧 Work in progress.
-
----
-
-## ⚙️ Automotive Test Automation Framework
-
-One of my larger engineering projects involved designing a modular Python framework for automated testing and validation of automotive software.
+Instead of maintaining multiple Word/PDF files manually, CV content is stored as structured **JSON data** and edited through a local browser UI.
 
 ```text
-Test Definition
-      │
-      ▼
-┌───────────────┐
-│ Python Engine │
-└───────┬───────┘
-        │
- ┌──────┼──────────┐
- │      │          │
- ▼      ▼          ▼
-SiL    HiL      Vehicle
- │      │          │
- └──────┼──────────┘
-        │
-        ▼
- Signals / Events
-        │
-        ▼
- Automated Validation
-        │
-        ▼
- Results + Reporting
+Browser Editor
+      ↓
+Structured JSON
+      ↓
+Template Engine
+      ↓
+HTML / CSS
+      ↓
+Generated PDF
 ```
 
-Some of the concepts included:
+**Outcome:** Different CV versions and layouts can be generated from the same structured source.
 
-- modular test architecture
-- event-driven test execution
-- real-time signal validation
-- threshold and timing checks
-- REST-based communication
-- web-based visualization
-- automated test documentation
+The CVs I currently use for applications are generated using this tool, which is also becoming the **document-generation module of the AI Job Application Agent**.
 
-### Technologies
-
-`Python` · `REST APIs` · `SiL` · `HiL` · `ETAS INCA` · `HTML/CSS` · `JavaScript`
-
-> Public versions of professional projects contain only independently recreated concepts and no confidential company code or data.
+**Tech:** `Python` · `JSON` · `HTML/CSS` · `Browser UI` · `Templates` · `PDF Generation`
 
 ---
 
-## 🔍 Diagnostic & Data Automation
+### ⚙️ Enterprise Test Workflow Automation
 
-Another area I've worked extensively in is turning manual engineering analysis into repeatable software workflows.
+> **End-to-end automation of a multi-step automotive testing workflow.**
 
-Examples include processing:
+**Problem:** Engineers manually collected logs, retrieved backend data, executed analysis tools, uploaded results and updated Jira/Xray.
 
-```text
-Excel ─────┐
-XML ───────┤
-ODX ───────┼──► Python ──► Normalize ──► Compare ──► Analyze
-ECU Data ──┤
-Logs ──────┘
-```
+**Solution:** Built a Python application connecting UI input, file processing, Selenium automation, external tools, metadata generation, cloud storage and Jira APIs.
 
-I've used Python-based automation for diagnostic data processing, validation, comparison and technical analysis.
+**Outcome:** Converted a fragmented manual workflow into a repeatable operator-driven pipeline with persistent state and structured logging.
 
-One such automation reduced a repetitive manual analysis process by around **80%**.
+**Tech:** `Python` · `Selenium` · `REST APIs` · `Jira API` · `Xray` · `JSON` · `OneDrive / SharePoint`
 
-### Technologies
-
-`Python` · `pandas` · `NumPy` · `XML` · `ODX` · `UDS` · `REST APIs`
+> 🔒 Public description excludes confidential company systems, data and implementation details.
 
 ---
 
-## ☁️ AI & Workflow Automation
+### 🧪 Automotive Test Automation Framework
 
-I experiment with building end-to-end automation systems that connect different tools, APIs and AI models.
+> **Modular Python framework for automated ECU and vehicle-function validation.**
 
-```text
-Trigger
-   │
-   ▼
-  n8n
-   │
-   ├──── API
-   ├──── Cloud Service
-   ├──── Python
-   ├──── Database / Files
-   │
-   ▼
-  LLM
-   │
-   ▼
-Structured Output
-   │
-   ▼
-Next Automated Action
-```
+**Problem:** Validation required reusable testing across SiL, HiL and real-vehicle environments.
 
-I'm particularly interested in moving beyond simple prompts and building **useful systems around AI models**.
+**Solution:** Developed a custom event-driven automation framework with signal validation, REST communication and a browser-based UI for use during test drives.
 
-### Tools
+**Outcome:** Enabled reusable automated tests, real-time validation, live UI feedback, **TTS voice assistance** and automated reporting.
 
-`Python` · `n8n` · `Docker` · `LLMs` · `REST APIs` · `Azure` · `Google Cloud`
+**Tech:** `Python` · `REST APIs` · `SiL/HiL` · `ETAS INCA` · `ControlDesk` · `Synopsys Silver` · `JavaScript` · `UI/UX`
+
+> 🔒 Public description excludes confidential company systems, data and implementation details.
 
 ---
 
-## 📱 Android Application Testing
+### 🔍 Diagnostic Data Automation
 
-I also have practical exposure to Android application development and testing.
+> **Python tooling for automated ECU and diagnostic-data analysis.**
 
-I've worked with:
+**Problem:** Diagnostic datasets from multiple formats required repetitive manual comparison.
 
-- Android Studio
-- ADB
-- Logcat
-- application testing
-- end-to-end testing
-- debugging application behavior
-- analyzing application and system logs
-- basic Kotlin development
+**Solution:** Automated extraction, normalization and comparison of structured diagnostic data.
 
-### Tools
+**Outcome:** Reduced manual analysis effort by approximately **80%** in one recurring workflow.
 
-`Android Studio` · `ADB` · `Logcat` · `Kotlin`
+**Tech:** `Python` · `pandas` · `NumPy` · `XML` · `ODX` · `UDS` · `Excel`
+
+> 🔒 Public description excludes confidential company systems, data and implementation details.
 
 ---
 
-## ⚡ Embedded ECU Controller
+### 🔓 PDF Utility Toolkit
 
-A microcontroller-based project written in C involving sensor and actuator integration, state-based control logic and fail-safe behavior.
+> **Python utilities for automating common PDF-processing tasks.**
 
-```text
-Sensors
-   │
-   ▼
-Control Logic
-   │
-   ├── Normal State
-   ├── Warning State
-   └── Fail-Safe State
-   │
-   ▼
-Actuators
-```
+Focused on document validation, controlled PDF processing and reusable file-handling workflows.
 
-### Built with
-
-`C` · `Microcontrollers` · `Embedded Systems` · `Control Logic`
+**Tech:** `Python` · `PDF Processing` · `CLI` · `File Automation`
 
 ---
 
-# 🧰 Tools I Like Working With
+### ⚡ Embedded ECU Controller
 
-### Languages
+> **Microcontroller-based control software with safety-oriented behavior.**
 
-`Python` `C` `JavaScript` `HTML/CSS` `Kotlin`
+Developed state-based control logic with sensor/actuator integration and fail-safe handling.
 
-### Backend & Software
-
-`REST APIs` `FastAPI` `JSON` `XML` `Selenium`
-
-### Data
-
-`pandas` `NumPy` `CSV` `Excel` `Data Processing`
-
-### Automation
-
-`n8n` `Power Automate` `Jira API` `Workflow Automation`
-
-### Dev & Infrastructure
-
-`Git` `GitLab` `Docker` `Linux / WSL` `SSH`
-
-### Cloud
-
-`Microsoft Azure` `Google Cloud`
-
-### Testing
-
-`API Testing` `End-to-End Testing` `Application Testing` `Test Automation`
-
-### Mobile
-
-`Android Studio` `ADB` `Logcat` `Kotlin`
-
-### Automotive
-
-`CAN` `UDS` `DoIP` `ODX` `OTA` `SiL` `HiL` `ETAS INCA`
+**Tech:** `C` · `Microcontrollers` · `Embedded Systems` · `Control Logic`
 
 ---
 
-# 🧠 How I Got Here
+### 🔋 Battery Electric Vehicle Simulation
+
+> **MATLAB/Simulink model for EV energy and battery-system analysis.**
+
+Modeled vehicle dynamics, battery behavior, energy consumption, regenerative braking and SOC/SOH concepts.
+
+**Tech:** `MATLAB` · `Simulink` · `EV Modeling` · `Battery Systems`
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `Python` `C` `JavaScript` `HTML/CSS` `Kotlin` |
+| **Backend & APIs** | `FastAPI` `REST APIs` `JSON` `XML` `YAML`|
+| **Automation & Testing** | `Selenium` `Test Automation` `API Testing` `E2E Testing` `Gherkin` |
+| **Data & AI** | `pandas` `NumPy` `LLMs` `AI Agents` `Sentence Transformers` |
+| **Workflow Automation** | `n8n` `Power Automate` `Jira API` |
+| **Dev & Cloud** | `Git` `GitLab` `Docker` `Linux/WSL` `Azure` `Google Cloud` |
+| **Automotive** | `CAN` `UDS` `DoIP` `ODX` `OTA` `SiL` `HiL` `ETAS INCA` |
+| **Mobile/Android** | `Android Studio` `ADB` `Logcat` `Kotlin` |
+
+---
+
+## 🧠 Engineering Journey
 
 ```text
 Mechanical Engineering
         ↓
 Mechatronics & Robotics
         ↓
-Embedded Systems
-        ↓
-Automotive Software
+Embedded & Automotive Systems
         ↓
 Python & Test Automation
         ↓
@@ -339,67 +188,58 @@ Backend / APIs / Data
 AI Agents & Software Automation
 ```
 
-My engineering background helps me understand physical systems.
-
-Software gives me a way to automate them.
-
-That's the combination I enjoy most.
+<p align="center">
+  <b>I enjoy working where software meets real engineering systems.</b>
+</p>
 
 ---
 
-# 🏎️ Automotive Is One Part of the Story
+## 🔬 Currently Exploring
 
-I've worked on engineering projects at **AUDI AG** and **Porsche Engineering**, where I gained experience with software testing, Python automation, diagnostics, vehicle systems, APIs, data analysis and validation.
-
-But I don't want my work to be limited to automotive.
-
-I'm equally interested in:
-
-- Software Engineering
-- Python Development
-- Automation Engineering
-- Backend Development
-- Test Automation
-- Developer Tools
-- AI Agents
-- Applied AI
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python_Applications-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_APIs-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-EA4B71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Defined_Vehicles-2563EB?style=flat-square" />
+</p>
 
 ---
 
-# 🔬 Currently Exploring
+## 📊 GitHub Activity
 
-```text
-AI Agents                    ███████████████████
-Python Automation            ███████████████████
-Backend / APIs               █████████████████
-Developer Tools              ████████████████
-Application Testing          ███████████████
-Automotive Software          █████████████████
-Android                      █████████
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VarshithReddyPalla&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VarshithReddyPalla&theme=tokyonight" width="48%" />
+</p>
 
----
-
-# 💡 Projects I Want to Build Next
-
-- 🤖 More capable AI agents
-- 🧪 reusable Python testing libraries
-- 📊 engineering data-analysis tools
-- 🛠️ developer productivity utilities
-- 🔗 API integrations
-- 📱 small Android applications
-- 🚗 open automotive software experiments
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarshithReddyPalla&theme=tokyonight" width="97%" />
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-I'm interested in **software engineering, automation, Python development, testing, AI applications and automotive software**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/varshith-reddy-palla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Varshith%20Reddy%20Palla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VarshithReddyPalla">
+    <img src="https://img.shields.io/badge/GitHub-VarshithReddyPalla-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VarshithReddyPalla?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varshith_Reddy_Palla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-reddy-palla/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VarshithReddyPalla&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
----
-
-```text
-See a repetitive task → understand it → automate it → improve it.
-```
+<p align="center">
+  <b>⚙️ Build → Automate → Validate → Improve.</b>
+</p>
