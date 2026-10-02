@@ -167,88 +167,16 @@ Modeled vehicle dynamics, battery behavior, energy consumption, regenerative bra
 
 ## 🛠️ Technical Toolkit
 
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-</p>
-
-### 🔗 Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
-</p>
-
-### ⚙️ Automation & Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test_Automation-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Testing-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/E2E_Testing-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gherkin-5B2063?style=flat-square" />
-</p>
-
-### 🧠 Data & AI
-
-<p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sentence_Transformers-EA4B71?style=flat-square" />
-</p>
-
-### 🔄 Workflow Automation
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira_API-0052CC?style=flat-square&logo=jira&logoColor=white" />
-</p>
-
-### ☁️ Dev & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
-### 🚗 Automotive
-
-<p>
-  <img src="https://img.shields.io/badge/CAN-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/UDS-EA580C?style=flat-square" />
-  <img src="https://img.shields.io/badge/DoIP-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/ODX-D97706?style=flat-square" />
-  <img src="https://img.shields.io/badge/OTA-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/SiL-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/HiL-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/ETAS_INCA-B91C1C?style=flat-square" />
-</p>
-
-### 📱 Mobile / Android
-
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADB-34A853?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logcat-059669?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **🔗 Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![XML](https://img.shields.io/badge/XML-F97316?style=flat-square) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) |
+| **⚙️ Automation & Testing** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Test Automation](https://img.shields.io/badge/Test_Automation-7C3AED?style=flat-square) ![API Testing](https://img.shields.io/badge/API_Testing-2563EB?style=flat-square) ![E2E Testing](https://img.shields.io/badge/E2E_Testing-059669?style=flat-square) ![Gherkin](https://img.shields.io/badge/Gherkin-5B2063?style=flat-square) |
+| **🧠 Data & AI** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square) ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-EA4B71?style=flat-square) |
+| **🔄 Workflow Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Jira API](https://img.shields.io/badge/Jira_API-0052CC?style=flat-square&logo=jira&logoColor=white) |
+| **☁️ Dev & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **🚗 Automotive** | ![CAN](https://img.shields.io/badge/CAN-F97316?style=flat-square) ![UDS](https://img.shields.io/badge/UDS-EA580C?style=flat-square) ![DoIP](https://img.shields.io/badge/DoIP-F59E0B?style=flat-square) ![ODX](https://img.shields.io/badge/ODX-D97706?style=flat-square) ![OTA](https://img.shields.io/badge/OTA-F97316?style=flat-square) ![SiL](https://img.shields.io/badge/SiL-2563EB?style=flat-square) ![HiL](https://img.shields.io/badge/HiL-7C3AED?style=flat-square) ![ETAS INCA](https://img.shields.io/badge/ETAS_INCA-B91C1C?style=flat-square) |
+| **📱 Mobile / Android** | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![ADB](https://img.shields.io/badge/ADB-34A853?style=flat-square&logo=android&logoColor=white) ![Logcat](https://img.shields.io/badge/Logcat-059669?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 
 ---
 
