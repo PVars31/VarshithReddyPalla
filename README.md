@@ -20,7 +20,7 @@ I am a **Software & Automation Engineer** with an M.Eng. background in **Mechatr
 My work sits between **automotive systems, software engineering, automation, APIs, testing and data processing**.
 
 - 🐍 Main language: **Python**
-- ⚙️ Focus: **Automation, backend tools, APIs & testing**
+- ⚙️ Focus: **Automation, backend tools, cloud, SDV's, APIs & testing**
 - 🚗 Domain: **Automotive software, ECU validation & diagnostics**
 - 🤖 Exploring: **AI agents & LLM-powered workflows**
 - 🧠 Approach: **Understand → Automate → Validate → Improve**
@@ -190,19 +190,6 @@ AI Agents & Software Automation
 
 <p align="center">
   <b>⚙️ I enjoy working where software meets real engineering systems.</b>
-</p>
-
----
-
-## 🔬 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python_Applications-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend_APIs-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-EA4B71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software_Defined_Vehicles-F97316?style=flat-square" />
 </p>
 
 ---
