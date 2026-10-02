@@ -27,14 +27,6 @@ My work sits between **automotive systems, software engineering, automation, API
 
 ---
 
-## 🚀 Featured Projects
-
-<p>
-  <img src="https://img.shields.io/badge/PROJECTS-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/AUTOMATION-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/ENGINEERING-F97316?style=flat-square" />
-</p>
-
 ### 🤖 AI Job Application Agent
 
 > **AI-assisted system for reducing repetitive work throughout the job-application process.**
@@ -211,19 +203,6 @@ AI Agents & Software Automation
   <img src="https://img.shields.io/badge/Workflow_Automation-EA4B71?style=flat-square" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Software_Defined_Vehicles-F97316?style=flat-square" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VarshithReddyPalla&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VarshithReddyPalla&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarshithReddyPalla&theme=tokyonight" width="97%" />
 </p>
 
 ---
